@@ -31,7 +31,7 @@ Desenvolvedor com experiência no desenvolvimento de aplicações web e mobile.
 
 ## 📫 Onde me encontrar
 
-- 💼 [Meu portfólio]([https://seuportfolio.com.br](https://leonardo-lopes-portfolio.vercel.app/)
+- 💼 [Meu portfólio](https://leonardo-lopes-portfolio.vercel.app/)
 - 📧 leonardolopes.dev3@gmail.com
 - 💬 [LinkedIn](https://www.linkedin.com/in/leonardo-lopes-link/)
 
