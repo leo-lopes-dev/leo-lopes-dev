@@ -1,6 +1,6 @@
-<h1 align="center">Leonardo Lopes</h1>
+<h1>Leonardo Lopes</h1>
 
-<p align="center">
+<p>
   <b>Desenvolvedor Full-Stack</b><br>
   HTML | CSS | JavaScript | TypeScript  | React | Node.js | PostgreSQL | Figma |
 </p>
